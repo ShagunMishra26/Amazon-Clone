@@ -19,8 +19,11 @@
 - 📊 **Modern CSS** - Variables, Shadows, Gradients
 
 ## 📱 **Live Demo**
-https://playful-palmier-0e88fc.netlify.app/
+ From Netlify : https://playful-palmier-0e88fc.netlify.app/
 /** My-Drop-Site **/
+
+From GitHub: https://shagunmishra26.github.io/Amazon-Clone/
+
 
 ## 🖼️ **Screenshots**
 <div align="center">
